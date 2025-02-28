@@ -3,7 +3,7 @@ Welcome to the Pandas repository! This project provides documentation and exampl
 
 # Table of Contents
 
-(1. Introduction to Pandas)
+[ 1. Introduction to Pandas ]
 (2. Pandas Series Data Structure)
 (3. Pandas DataFrame)
 (4. Pandas Indexing, Selection, and Filtering)
